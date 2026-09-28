@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/tallypage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tally host/page network string helpers for config audits.",
+  "bin": {
+    "tallypage": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/tallypage.git"
+  },
+  "homepage": "https://theworker02.github.io/tallypage/",
+  "keywords": [
+    "tally",
+    "page",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
